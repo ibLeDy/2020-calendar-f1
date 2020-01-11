@@ -9,8 +9,8 @@ You can import the [.ics](./calendar.ics) file to
 
 ### TODO
 
-- [ ] Add FP3 and Q
-- [ ] Add FP1 and FP2
-- [ ] Find when each session begins (HH:MM)
-- [ ] Modify BEGIN (00:00) and add END
-- [ ] Add timestamps to remaining sessions
+    - [ ] Add FP3 and Q
+    - [ ] Add FP1 and FP2
+    - [ ] Find when each session begins (HH:MM)
+    - [ ] Modify BEGIN (00:00) and add END
+    - [ ] Add timestamps to remaining sessions
