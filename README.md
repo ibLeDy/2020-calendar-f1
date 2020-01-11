@@ -4,7 +4,7 @@ ONLY RACE DAYS ATM
 
 ## Usage
 
-You can import the [.ics](./calendar.ics) file to
+You can import the [.ics](https://github.com/ibLeDy/2020-calendar-f1/releases/latest) file to
 [Google Calendar](https://calendar.google.com/calendar/r/settings/export)
 
 ### TODO
