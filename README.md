@@ -1,6 +1,6 @@
 # [WIP] F1 Calendar for the 2020 Season
 
-ONLY RACE DAYS ATM
+ONLY RACE DAYS AND NO START/END TIME ATM
 
 ## Usage
 
