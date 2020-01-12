@@ -34,11 +34,11 @@ calendar.extra.extend([
     ContentLine(name='X-WR-CALNAME', value='F1 Calendar 2020')
 ])
 
-with open('races.csv', 'r') as f:
+with open('data/races.csv', 'r') as f:
     races = f.read().strip().splitlines()
 
 
-with open('schedule.csv', 'r') as f:
+with open('data/schedule.csv', 'r') as f:
     sessions = f.read().strip().splitlines()
 
 schedule = {}
