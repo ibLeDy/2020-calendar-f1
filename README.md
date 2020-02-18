@@ -1,6 +1,6 @@
 # [WIP] F1 Calendar for the 2020 Season
 
-ONLY RACE DAYS AND NO START/END TIME ATM
+ONLY RACE DAYS AND NO END TIME
 
 ## Usage
 
@@ -8,7 +8,7 @@ With [Google Calendar](https://calendar.google.com):
 
 - Create a [new calendar](https://calendar.google.com/calendar/r/settings/createcalendar)
 - Download the [.ics file](https://github.com/ibLeDy/2020-calendar-f1/releases/latest)
-- Import the file to [your new calendar](https://calendar.google.com/calendar/r/settings/export)
+- [Import the file](https://calendar.google.com/calendar/r/settings/export) to your new calendar
 
 ### TODO
 
